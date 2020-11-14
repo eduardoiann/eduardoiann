@@ -31,7 +31,7 @@ Opa, tudo bem? Me chamo Eduardo Iannicelli! Sou de São Paulo, Brasil. Estou est
 **Stats**
 
 <a href="https://github.com/eduardoiann">
-    <img src="https://github-readme-stats.vercel.app/api?username=eduardoiann&show_icons=true&theme=synthwave" alt="eduardoiann :: Profile Stats" />
+    <img align="center" width=400 src="https://github-readme-stats.vercel.app/api?username=eduardoiann&show_icons=true&theme=synthwave" alt="eduardoiann :: Profile Stats" />
 </a>
 <a href="https://github.com/eduardoiann">
   <img align="center" width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoiann&layout=compact&theme=dracula" alt="eduardoiann" />
