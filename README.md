@@ -1,4 +1,4 @@
-Opa, tudo bem? Me chamo Eduardo Iannicelli! Sou de São Paulo, Brasil. Estou estudando na **Trybe** para me tornar um **Desenvolvedor Front-end!**
+Opa, tudo bem? Me chamo Eduardo Iannicelli! Sou de São Paulo, Brasil. Estou estudando na **Trybe** para me tornar um **Desenvolvedor Full-Stack** com foco em **Front-end!**
 
 - Open to work!
 - Desenvolvedor Front-end.
