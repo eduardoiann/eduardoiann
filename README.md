@@ -15,6 +15,7 @@ Opa, tudo bem? Me chamo Eduardo Iannicelli! Sou de São Paulo, Brasil. Estou est
 ![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![ReactJS Badge](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
+![ContextApi Badge](https://img.shields.io/badge/-Context%20Api-orange)
 ![Hooks Badge](https://img.shields.io/badge/-Hooks-61DAFB?style=flat-square&logo=React&logoColor=black)
 ![React Testing Library Badge](https://img.shields.io/badge/-RTL-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
